@@ -41,7 +41,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <body>
     <div class="test col-lg-3 col-md-4 col-sm-6 "></div>
   <h1>Hello World!</h1>
-    This is my JSP page. <br>
+    This is my  first JSP page. <br>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
    <script src="js/bootstrap.min.js"></script>
   </body>
